@@ -3,7 +3,7 @@ import "./_assets/styles/globals.css";
 import StyledComponentsRegistry from "./_lib/registry";
 
 export const metadata: Metadata = {
-  title: "HOOYA",
+  title: "HOOYU",
   description: "My Own Portfolio Made With Next.JS",
 };
 
